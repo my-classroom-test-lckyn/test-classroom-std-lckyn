@@ -3,7 +3,7 @@
     {
       "name": "test classroom test name",
       "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
+      "run": "pytest hello_test.py",
       "input": "",
       "output": "",
       "comparison": "included",
